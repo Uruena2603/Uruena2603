@@ -4,7 +4,7 @@
 
 <p align="center" width="150px"> I am a student of Systems and Telecommunications Engineering. I have developed projects in react.js (Frontend, Backend and Database).
 
-I am dedicated, disciplined and very passionate, which helps me finish the things I start.
+I am dedicated, disciplined and very passionate, this helps me finish the things I start.
 
 I would like to work on projects that challenge me to continue learning and that allow me to explore all possibilities.</p>
 
