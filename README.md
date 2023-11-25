@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna</h1>
 
-<p align="center" width="150px">I am a student of Systems and Telecommunications Engineering. I have developed projects in react.js (Frontend, Backend and Database).
+<p align="center" width="150px">
+I am a student of Systems and Telecommunications Engineering. I have developed projects in react.js (Frontend, Backend and Database).
 
 I am dedicated, disciplined and very passionate, this helps me finish the things I start.
 
@@ -11,7 +12,7 @@ I would like to work on projects that challenge me to continue learning and that
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BUruena2603%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uruena2603&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Uruena2603&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Uruena2603&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
