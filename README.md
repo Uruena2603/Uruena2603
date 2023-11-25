@@ -12,7 +12,6 @@ I would like to work on projects that challenge me to continue learning and that
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BUruena2603%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uruena2603&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Uruena2603&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
