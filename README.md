@@ -33,6 +33,6 @@ I would like to work on projects that challenge me to continue learning and that
 <p align="center">
 <a href="mailto:alejourus2003@gmail.com"><img src="https://img.shields.io/badge/-alejourus2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/uruena_15/"><img src="https://img.shields.io/badge/-uruena_15-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="Juan Alejandro Urueña Serna CV.png"><img src="https://img.shields.io/badge/CV-Ver%20CV-blue?style=flat&logoColor=white"/></a>
+<a href="Juan Alejandro Urueña Serna CV.png"><img src="https://img.shields.io/badge/CV-%230077B5?style=for-the-badge&logo=Document&logoColor=white"/></a>
 </p>
 
