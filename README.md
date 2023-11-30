@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna</h1>
 
 <p align="center" width="150px">
-I am a student of Systems and Telecommunications Engineering. I have developed projects in react.js (Frontend, Backend and Database).
+I am a student of Systems and Telecommunications Engineering.
 
 I am dedicated, disciplined and very passionate, this helps me finish the things I start.
 
