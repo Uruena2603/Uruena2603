@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna</h1>
 
 <p width="150px">
-I am a student of Systems and Telecommunications Engineering.
+ I'm a passionate Systems and Telecommunications Engineering student at the Universidad Católica de Pereira, currently delving into my 7th semester. I'm thrilled to be part of the automated testing research group where I've been exploring tools like Cypress since this year. My journey in programming has led me through various languages including C++, Java, PHP, and Python. On the front-end side, I've worked with ReactJS and dabbled with Angular. Additionally, I have a solid foundation in HTML and CSS.
 
-I am dedicated, disciplined and very passionate, this helps me finish the things I start.
+I enjoy immersing myself in the world of technology, constantly seeking opportunities to learn and grow. My interests extend to database management, particularly with relational databases like MySQL.
 
-I would like to work on projects that challenge me to continue learning and that allow me to explore all possibilities.</p>
+Looking ahead, I aspire to continue expanding my knowledge and skills, staying abreast of the latest industry technologies.
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BUruena2603%7D/count.svg" alt="visitor badge"/></p>
@@ -26,6 +26,9 @@ I would like to work on projects that challenge me to continue learning and that
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 
 
 ### :link: &nbsp;Connect with me
