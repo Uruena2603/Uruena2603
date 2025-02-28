@@ -1,13 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> </p> <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna </h1> <p align="center"> <strong>Systems & Telecommunications Engineering Student | Research Enthusiast | Tech Lover</strong> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna</h1>
-
-<p width="150px">
- I'm a passionate Systems and Telecommunications Engineering student at the Universidad Católica de Pereira, currently delving into my 7th semester. I'm thrilled to be part of the automated testing research group where I've been exploring tools like Cypress since this year. My journey in programming has led me through various languages including C++, Java, PHP, and Python. On the front-end side, I've worked with ReactJS and dabbled with Angular. Additionally, I have a solid foundation in HTML and CSS.
-
-I enjoy immersing myself in the world of technology, constantly seeking opportunities to learn and grow. My interests extend to database management, particularly with relational databases like MySQL.
-
-Looking ahead, I aspire to continue expanding my knowledge and skills, staying abreast of the latest industry technologies.
+<p> I am a dedicated Systems and Telecommunications Engineering student at <strong>Universidad Católica de Pereira</strong>, currently in my <strong>ninth semester</strong> and on track to graduate in 2025. My passion for technology drives me to continuously learn and innovate. </p> <p> I actively contribute to a research project focused on <strong>predictive maintenance</strong> and <strong>artificial intelligence</strong> using neural networks, while also exploring cutting-edge automated testing with Cypress. Throughout my journey, I have developed proficiency in multiple programming languages such as <strong>C++</strong>, <strong>Java</strong>, and <strong>Python</strong>, and honed my skills in web development with frameworks and tools like <strong>React</strong>, <strong>Flask</strong>, <strong>HTML</strong>, and <strong>CSS</strong>. I also have a solid foundation in database management, especially with MySQL and SQL Server. </p> <p> Beyond coding, I value teamwork and have gained valuable experience in customer service and technical support roles. These experiences have enriched my communication skills and problem-solving abilities, complementing my technical expertise. </p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BUruena2603%7D/count.svg" alt="visitor badge"/></p>
