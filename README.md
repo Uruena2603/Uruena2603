@@ -36,6 +36,6 @@ Looking ahead, I aspire to continue expanding my knowledge and skills, staying a
 <p align="center">
 <a href="mailto:alejourus2003@gmail.com"><img src="https://img.shields.io/badge/-alejourus2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/uruena_15/"><img src="https://img.shields.io/badge/-uruena_15-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="Juan Alejandro Urueña Serna CV.png"><img src="https://img.shields.io/badge/CV-%230077B5?style=for-the-badge&logo=FontAwesome&logoColor=white"/></a>
+<a href="Juan Alejandro Urueña Serna CV.pdf"><img src="https://img.shields.io/badge/CV-%230077B5?style=for-the-badge&logo=FontAwesome&logoColor=white"/></a>
 </p>
 
