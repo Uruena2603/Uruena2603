@@ -1,34 +1,149 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> </p> <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Juan Alejandro Urueña Serna </h1> <p align="center"> <strong>Systems & Telecommunications Engineering Student | Research Enthusiast | Tech Lover</strong> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> </p> <!-- HEADER -->
+<!-- HEADER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Uruena2603/Uruena2603/master/header.png" alt="Header" width="100%" />
+  <h1>👋 Hi, I’m Juan Alejandro Urueña Serna</h1>
+  <p>🎓 10th-semester Systems & Telecommunications Engineering student • 🔍 Predictive Maintenance Researcher • 💻 Tech Enthusiast</p>
+</div>
 
-<p> I am a dedicated Systems and Telecommunications Engineering student at <strong>Universidad Católica de Pereira</strong>, currently in my <strong>ninth semester</strong> and on track to graduate in 2025. My passion for technology drives me to continuously learn and innovate. </p> <p> I actively contribute to a research project focused on <strong>predictive maintenance</strong> and <strong>artificial intelligence</strong> using neural networks, while also exploring cutting-edge automated testing with Cypress. Throughout my journey, I have developed proficiency in multiple programming languages such as <strong>C++</strong>, <strong>Java</strong>, and <strong>Python</strong>, and honed my skills in web development with frameworks and tools like <strong>React</strong>, <strong>Flask</strong>, <strong>HTML</strong>, and <strong>CSS</strong>. I also have a solid foundation in database management, especially with MySQL and SQL Server. </p> <p> Beyond coding, I value teamwork and have gained valuable experience in customer service and technical support roles. These experiences have enriched my communication skills and problem-solving abilities, complementing my technical expertise. </p>
+---
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BUruena2603%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uruena2603&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Uruena2603&theme=chartreuse-dark"></p>
+## 💼 About Me
 
-### 🛠 &nbsp;Tech Stack
+- **Degree:** 10th-semester Systems & Telecommunications Engineering @ Universidad Católica de Pereira (Class of 2025)  
+- **Research:** Built & trained RNN, LSTM, CNN & TCN models to detect anomalies in industrial sensor data  
+- **Web Dev:** Delivered responsive landing pages & SPAs with React & Angular  
+- **Scripting & Data:** Automated web scraping with Python (BeautifulSoup, lxml, pandas)  
+- **Simulations & Tools:**  
+  - C++ ATM simulator  
+  - Java cinema-theater simulator  
+  - PHP API consumers  
+  - Cypress end-to-end test suites  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+---
 
+## 🏆 Skills & Expertise
 
-### :link: &nbsp;Connect with me
+<table width="100%" cellpadding="10">
+  <tr>
+    <th align="center">🌐 Frontend</th>
+    <th align="center">⚙️ Backend & Databases</th>
+    <th align="center">🤖 AI, Data & Testing</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" /><br>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" /><br>
+      <strong>Node.js</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="60" alt="TensorFlow" /><br>
+      <strong>TensorFlow</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" /><br>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python" /><br>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="60" alt="PyTorch" /><br>
+      <strong>PyTorch</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" /><br>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP" /><br>
+      <strong>PHP</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras" width="60" alt="Keras" /><br>
+      <strong>Keras</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="60" alt="React" /><br>
+      <strong>React</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL" /><br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter" width="60" alt="Jupyter" /><br>
+      <strong>Jupyter</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular" /><br>
+      <strong>Angular</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60" alt="PostgreSQL" /><br>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cypress" width="60" alt="Cypress" /><br>
+      <strong>Cypress</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><hr></td>
+  </tr>
+  <tr>
+    <td>
+      - Responsive SPAs & landing pages  
+      - Component-based UI architecture  
+    </td>
+    <td>
+      - RESTful APIs with Flask, Node.js & PHP  
+      - Schema modeling, joins & stored procedures  
+    </td>
+    <td>
+      - Neural network training & evaluation  
+      - Automated CI/CD tests with Cypress  
+    </td>
+  </tr>
+</table> 
 
-<p align="center">
-<a href="mailto:alejourus2003@gmail.com"><img src="https://img.shields.io/badge/-alejourus2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/uruena_15/"><img src="https://img.shields.io/badge/-uruena_15-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="Juan Alejandro Urueña Serna CV.pdf"><img src="https://img.shields.io/badge/CV-%230077B5?style=for-the-badge&logo=FontAwesome&logoColor=white"/></a>
-</p>
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uruena2603&show_icons=true&count_private=true&theme=dark&hide_border=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uruena2603&layout=compact&theme=dark&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:alejourus2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alejourus2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/uruena_15/">
+    <img src="https://img.shields.io/badge/Instagram-uruena_15-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="Juan Alejandro Urueña Serna CV.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF-007ACC?style=for-the-badge&logo=adobepdf&logoColor=white" alt="Download CV" />
+  </a>
+</div>
+
+---
+
+⭐ Thanks for stopping by!  
