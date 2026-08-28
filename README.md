@@ -36,4 +36,4 @@ Systems and Telecommunications Engineering, Universidad Católica de Pereira (20
 
 - 📧 alejourus2003@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-alejandro-urueña-serna)
-- 📄 Résumé: [English (PDF)](./cv-en.pdf) · [Español (PDF)](./cv-es.pdf)
+- 📄 Résumé: [English (PDF)](./Juan-Alejandro-Uruena-CV-EN.pdf) · [Español (PDF)](./Juan-Alejandro-Uruena-CV-ES.pdf)
