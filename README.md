@@ -14,9 +14,9 @@ Client code is private, so the live sites are the evidence:
 
 ## How I work
 
-AI agents alone do not produce reliable, scalable, or secure code. The real skill is defining the rules, constraints, skills, tools, and verification gates that make their output trustworthy. I develop with Claude Code and OpenCode under a written engineering cycle: define, plan, build, verify, ship. Every delivery is verified with evidence before it counts as done.
+AI agents alone do not produce reliable, scalable, or secure code. The real skill is defining the rules, constraints, skills, tools, and verification gates that make their output trustworthy. I develop with Claude Code and OpenCode under a written engineering cycle: define, plan, build, verify, review, ship. Every delivery is verified with evidence before it counts as done.
 
-My personal site, [juan-alejandro-uruena.pages.dev](https://juan-alejandro-uruena.pages.dev), is built with that workflow in [Personal-blog](https://github.com/Uruena2603/Personal-blog); the workflow itself is documented in [docs/agent-workflow](https://github.com/Uruena2603/Personal-blog/tree/main/docs/agent-workflow).
+My personal site, [juan-alejandro-uruena.pages.dev](https://juan-alejandro-uruena.pages.dev), is built with that workflow in [Personal-blog](https://github.com/Uruena2603/Personal-blog).
 
 ## Background
 
