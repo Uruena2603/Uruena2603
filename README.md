@@ -8,7 +8,7 @@ I build and deploy complete web systems: site, database, analytics, and automati
 
 Client code is private, so the live sites are the evidence:
 
-- **[ecmo-lp.pages.dev](https://ecmo-lp.pages.dev)** · Lead-generation funnel for a client in the medical sector. Next.js static export, a Cloudflare Pages Function and Supabase for lead capture, and conversion tracking with Meta Pixel, GA4, and Microsoft Clarity. Result: 250+ sign-ups and ~170 people joined the WhatsApp group where the client sells his training program.
+- **[ecmo-lp.pages.dev](https://ecmo-lp.pages.dev)** · Lead-generation funnel for a client in the medical sector. Next.js static export, a Cloudflare Pages Function and Supabase for lead capture, and conversion tracking with Meta Pixel, GA4, and Microsoft Clarity. Result: 400+ sign-ups. The funnel takes the lead to the WhatsApp group where the client sells his training program.
 - **[minasmassage.com](https://minasmassage.com)** · Bilingual website of an independent therapist specializing in post-surgical recovery and lymphatic drainage in Dallas and Miami (USA). Next.js, Supabase, and a custom domain.
 - **[a-viajar-tours.pages.dev](https://a-viajar-tours.pages.dev)** · Website for a travel agency with Colombia's National Tourism Registry (RNT). Package catalog and direct WhatsApp contact. Next.js, shadcn/ui, and Cloudflare Pages.
 
@@ -35,5 +35,6 @@ Systems and Telecommunications Engineering, Universidad Católica de Pereira (20
 ## Contact
 
 - 📧 alejourus2003@gmail.com
+- 🌐 [juan-alejandro-uruena.pages.dev](https://juan-alejandro-uruena.pages.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-alejandro-urueña-serna)
 - 📄 Résumé: [English (PDF)](./Juan-Alejandro-Uruena-CV-EN.pdf) · [Español (PDF)](./Juan-Alejandro-Uruena-CV-ES.pdf)
