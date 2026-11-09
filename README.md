@@ -24,10 +24,10 @@ Systems and Telecommunications Engineering, Universidad Católica de Pereira (20
 
 ## Tech
 
-- **Languages:** TypeScript, JavaScript, Python, SQL, Java, C++
-- **Frontend:** Next.js, React, Astro, Tailwind CSS, shadcn/ui
+- **Languages:** TypeScript, JavaScript, PHP, Python, SQL, Java, C++
+- **Frontend:** Next.js, React, Astro, HTML, CSS, Tailwind CSS, shadcn/ui
 - **Backend and data:** Supabase, PostgreSQL, Cloudflare Functions, Node.js, FastAPI
-- **Cloud and deployment:** Cloudflare Pages, Vercel, Coolify, Git/GitHub, Linux
+- **Cloud and deployment:** Cloudflare Pages, Vercel, Coolify, Git/GitHub (GitHub Actions), Linux
 - **AI-assisted development:** Claude Code, OpenCode, Cursor, context engineering, LLM APIs
 - **AI and data:** TensorFlow, Keras, PyTorch, scikit-learn, Pandas
 - **Automation and analytics:** n8n, Google Analytics 4, Meta Pixel, Microsoft Clarity
